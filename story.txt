@@ -24,4 +24,8 @@ Mauris tempus felis nisi, ac elementum ex varius quis. Cras hendrerit, nulla et 
 
 Curabitur ullamcorper malesuada ipsum, vel consequat nulla congue non. Vestibulum at dui sodales, pellentesque tortor a, aliquet urna. Duis eu mi enim. Cras sed nisi nec est rhoncus eleifend. Nam dui nisi, dictum et posuere sit amet, egestas nec felis. Mauris fermentum augue at velit luctus consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam vestibulum ornare vulputate. Sed lacinia justo nisi, maximus pellentesque eros porttitor a. Quisque egestas elit eget lacus hendrerit mattis. Donec varius metus id elit elementum commodo. Duis quis congue mi. Donec ultrices ex semper orci laoreet bibendum sed ut lacus. Edited last sentence text.
 
+<<<<<<< HEAD
 Edited text locally.
+=======
+Edited text in github.
+>>>>>>> 0473b619f3f4b45ac9a5d0be2a154f7a728d27ae
