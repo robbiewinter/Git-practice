@@ -2,3 +2,4 @@ some important text
 
 Greetings from my computer and from GitHub
 
+Some new changes made in the cloned version.
